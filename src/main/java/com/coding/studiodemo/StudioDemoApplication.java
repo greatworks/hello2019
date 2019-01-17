@@ -18,5 +18,6 @@ public class StudioDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(StudioDemoApplication.class, args);
+        System.out.print("hellow!");
 	}
 }
